@@ -1,4 +1,24 @@
-// based on the example code from this fine person https://community.lifx.com/t/sending-lan-packet-using-arduino/1460/3
+/************************************************************************/
+/* A library to control LIFX lights over the LAN                        */
+/* Based on sample code from this fine person at                        */
+/* https://community.lifx.com/t/sending-lan-packet-using-arduino/1460/3 */
+/*                                                                      */
+/* This library is free software: you can redistribute it and/or modify */
+/* it under the terms of the GNU General Public License as published by */
+/* the Free Software Foundation, either version 3 of the License, or    */
+/* (at your option) any later version.                                  */
+/*                                                                      */
+/* This library is distributed in the hope that it will be useful, but  */
+/* WITHOUT ANY WARRANTY; without even the implied warranty of           */
+/* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU     */
+/* General Public License for more details.                             */
+/*                                                                      */
+/* You should have received a copy of the GNU General Public License    */
+/* along with this library. If not, see <http://www.gnu.org/licenses/>. */
+/*                                                                      */
+/* Written by Peter Humphrey July 2021.                                 */
+/************************************************************************/
+
 
 #include "Lifx.h"
 
