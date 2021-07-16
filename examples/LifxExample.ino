@@ -1,7 +1,5 @@
 #include "Lifx.h"
 
-
-
 #define POWER_BUTTON_PIN 14
 
 //  LIFX
